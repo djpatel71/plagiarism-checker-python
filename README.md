@@ -33,5 +33,3 @@ $ Plagiarism-checker-Python-> python3 app.py
 ('fatma.txt', 'juma.txt', 0.18643448370323362)
 
 ```
-# plagiarism-checker-python
-# plagiarism-checker-python
